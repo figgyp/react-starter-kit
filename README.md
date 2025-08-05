@@ -2,15 +2,13 @@
 
 Boilerplate repo for React SPA applications
 
-## How to use
+## Instructions
 
-From the GitHub website:
+There are three different ways to use this boilerplate repo:
 
-1. Fork `react-starter-kit` repository
-2. Navigate to https://github.com/new to create a new repo
-3. Select the newly forked repository as the "Repository template"
-
-Alternatively, you can use the [GitHub CLI](https://github.com/cli/cli) to create a new repo from the command line.
+1. Click the "Use this template" button on https://github.com/figgyp/react-starter-kit.
+2. Fork figgyp/react-starter-kit, and reference your fork as the Template repo when you create a new repo in GitHub.
+3. Use the [GitHub CLI](https://github.com/cli/cli) to create a new repo from the command line.
 
 ```sh
  gh repo create foobar --template figgyp/react-starter-kit --clone --public                                                            (📦 v0.0.1)( v22.12.0)  11s
