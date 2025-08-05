@@ -7,6 +7,10 @@
     "node": "22.x",
     "npm": "10.x"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/figgyp/react-starter-kit"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
