@@ -1,37 +1,17 @@
 # React Starter Kit
 
-### Technologies
-- Typescript
-- React
-- Tailwind
-- Vite
-- ESLint
-- Prettier
+Boilerplate repo for React SPA applications
 
-### Opinions
-- env files in `/config` directory
-- src directory gets `@/` import alias
-- node strict engine check
-- npm install exact dependencies
+## How to use
 
-### Omitted
-- routing
-- CI/CD
-- src directory structure
+From the GitHub website:
 
-### Getting started
+1. Fork `react-starter-kit` repository
+2. Navigate to https://github.com/new to create a new repo
+3. Select the newly forked repository as the "Repository template"
 
-tl-dr; use this repo as the `Repository template` for your new project
+Alternatively, you can use the [GitHub CLI](https://github.com/cli/cli) to create a new repo from the command line.
 
-From the web
-- Visit https://github.com/figgyp/react-starter-kit
-- On the top right, click the green button `Use this template`
-
-From CLI
-- Prereq: Ensure you have the [GitHub CLI](https://github.com/cli/cli) installed and authenticated with your GitHub account
-- `gh repo create <new-repository-name> --template figgyp/react-starter-kit --clone --public`
-
-Example:
 ```sh
  gh repo create foobar --template figgyp/react-starter-kit --clone --public                                                            (📦 v0.0.1)( v22.12.0)  11s
  ✓ Created repository figgyp/foobar on github.com
